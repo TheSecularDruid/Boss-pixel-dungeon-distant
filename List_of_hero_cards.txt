@@ -1,0 +1,2 @@
+Mage;Ordinaire;Brandork l'Infaillible;Formé aux sept parfums de magie, Brandork observe les préceptes de Maître Visage, l'Omniscient Céleste.;
+Voleur;Epique;Hya, la Légendaire Shinobi;Hya, la mortelle ninja d'Arcadia, s'en tient au proverbe selon lequel la vengeance est un plat qui se mange froid.;
